@@ -5,7 +5,7 @@ class Solution {
         while (true) {
             var sum = 0
             while (n != 0) {
-                sum += n % 10 * (n % 10)
+                sum += n % 10 * (n % 10) // 나머지 연산 먼저 오른쪽에서 왼쪽으로 
                 n /= 10Le
             }
             if (sum / 10 == 0) {
