@@ -5,7 +5,7 @@ class Solution {
         else {
             var currentMax = nums.first()
             var superMax = nums.first()
-            for (i in 1..nums.lastIndex) {
+            for (i in 1..nums.lastIndex) { //index (1~lastindex)
                 currentMax = Math.max(currentMax + nums[i], nums[i])
                 superMax = Math.max(superMax, currentMax)
             }
