@@ -22,6 +22,13 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Kotlin](./NumberOfSubstrings.kt)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Kotlin](./SetZeroes.kt)|Medium|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/) | [Kotlin](./Twitter.kt)|Medium|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Kotlin](./Backspace_String_Compare.kt)|Easy|
+|30_Challenge_Week1_Day7|[Counting Elements](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/) | [Kotlin](./CountingElements.kt)|?|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Kotlin](./Diameter_of_Binary_Tree.kt)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Kotlin](./Min_Stack.kt)|Easy|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Kotlin](./lastStoneWeight.kt)|Easy|
+
+
 
 
 
