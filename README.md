@@ -21,7 +21,7 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Kotlin](./MoveZeroes.kt)|Easy|
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Kotlin](./NumberOfSubstrings.kt)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Kotlin](./SetZeroes.kt)|Medium|
-|355|Design Twitter](https://leetcode.com/problems/design-twitter/) | [Kotlin](./Twitter.kt)|Medium|
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter/) | [Kotlin](./Twitter.kt)|Medium|
 
 
 
