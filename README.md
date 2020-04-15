@@ -27,6 +27,8 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Kotlin](./Diameter_of_Binary_Tree.kt)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Kotlin](./Min_Stack.kt)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Kotlin](./lastStoneWeight.kt)|Easy|
+|30_Challenge_Week2_Day7|[Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [Kotlin](./stringShift.kt)|?|
+
 
 
 
