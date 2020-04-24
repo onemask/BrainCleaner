@@ -28,6 +28,8 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [Kotlin](./Min_Stack.kt)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Kotlin](./lastStoneWeight.kt)|Easy|
 |30_Challenge_Week2_Day7|[Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/) | [Kotlin](./stringShift.kt)|?|
+|30_Challenge_Week3_Day7|[Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | [Kotlin](./Leftmost_Column_with_at_Least_a_One.kt)|?|
+
 
 
 
