@@ -32,8 +32,3 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Kotlin](Cousins_in_Binary_Tree.kt)|Easy|
 
 
-
-
-
-
-
