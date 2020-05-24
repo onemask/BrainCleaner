@@ -31,4 +31,6 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |30_Challenge_Week3_Day7|[Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/) | [Kotlin](./Leftmost_Column_with_at_Least_a_One.kt)|?|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Kotlin](Cousins_in_Binary_Tree.kt)|Easy|
 |208|[Implement Trie(Prefix Tree)](https://leetcode.com/problems/cousins-in-binary-tree/) |[Kotlin](https://github.com/onemask/BrainCleaner/blob/master/Implement%20_Trie.kt)|Medium|
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Kotlin](Count_Square_Submatrices_with_All_Ones.kt)|Medium|
+
 
