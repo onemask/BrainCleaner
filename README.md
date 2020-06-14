@@ -33,4 +33,5 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |208|[Implement Trie(Prefix Tree)](https://leetcode.com/problems/cousins-in-binary-tree/) |[Kotlin](https://github.com/onemask/BrainCleaner/blob/master/Implement%20_Trie.kt)|Medium|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Kotlin](Count_Square_Submatrices_with_All_Ones.kt)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Kotlin](Counting_Bits.kt)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Kotlin](ClimbStairs.kt)|Easy|
 
