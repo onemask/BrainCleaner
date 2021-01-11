@@ -35,4 +35,5 @@ It's solutions for Leetcode, consisting of Kotlin languages that work on JVM.
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/) | [Kotlin](Counting_Bits.kt)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Kotlin](ClimbStairs.kt)|Easy|
 |518|[Coin_Change2](https://leetcode.com/problems/coin-change-2/) | [Kotlin](Coin_Change2.kt)|Medium|
+|1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](CountNegativeNumbersinaSortedMatrix.py)|Easy|
 
